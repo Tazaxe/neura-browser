@@ -58,7 +58,7 @@ GREEN    = "#28c840"
 #  CAMBIA ESTOS VALORES a los de tu repo de GitHub:
 # ─────────────────────────────────────────────
 VERSION        = "2.7.0"          # versión actual del archivo
-GITHUB_USER    = "TU_USUARIO"     # tu usuario de GitHub
+GITHUB_USER    = "Tazaxe"     # tu usuario de GitHub
 GITHUB_REPO    = "neura-browser"  # nombre del repositorio
 GITHUB_BRANCH  = "main"           # rama principal
 # El archivo debe subirse al repo con este nombre:
