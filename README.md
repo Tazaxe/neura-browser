@@ -1,8 +1,8 @@
-#🧠 Neura Browser
+🧠 Neura Browser
 
 Neura es un navegador web moderno, ligero y personalizable diseñado para ofrecer velocidad, seguridad y una experiencia inteligente de navegación.
 
-#🚀 Características
+🚀 Características
 ⚡ Navegación rápida y optimizada
 🧠 Integración con funciones inteligentes (IA)
 🎨 Interfaz minimalista y personalizable
@@ -13,6 +13,6 @@ Neura es un navegador web moderno, ligero y personalizable diseñado para ofrece
 
 Neura busca combinar la potencia de los navegadores modernos con herramientas inteligentes para mejorar la forma en la que los usuarios exploran internet.
 
-#🛠️ Estado del proyecto
+🛠️ Estado del proyecto
 
-#🟡 En desarrollo activo
+🟡 En desarrollo activo
